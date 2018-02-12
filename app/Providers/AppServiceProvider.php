@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace SICOVIMA\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
